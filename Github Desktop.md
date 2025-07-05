@@ -93,7 +93,10 @@ It will automatically open Github
 
 ![8](https://github.com/user-attachments/assets/daad58f1-8e93-4e2e-b687-dd574c22555c)
 
+### Step 17: It will show if there is any conflict or not. some may have test cases. If all passed then the maintainer or owner will merge the contribution after sometimes, if fails then go to the issue part of the page/code and resolve, then go to github desktop, same process, update commit changes and click on push origin.
 
+![9](https://github.com/user-attachments/assets/5f308edc-9a66-4e8f-a58a-d70ee4ec8ace)
 
+## Wait for them to merge. It may take time maybe even days or weeks when they see the pull request. If its approved and merged.
 
-
+# Congratulation! You have sucessfully made a contribution.
