@@ -65,6 +65,13 @@ Wait for sometimes until it gets cloned, the cloning time depends upon the size 
 
 ![7](https://github.com/user-attachments/assets/957d1125-33a5-434c-a631-d5937176711d)
 
-It will automatically open vs code.
+It will automatically open vs code with all datas of the cloned repository.
 
-### Step 11:
+### Step 11: Since in this repository, all python codes are in a folder named standard lib, so I will create a new python file under this folder named fibonacci.py
+
+![3](https://github.com/user-attachments/assets/434bcd00-a80c-41f7-913b-bf879f0063b0)
+
+### Step 12: Then write the code of fibonacci series and save under the same folder.
+
+![4](https://github.com/user-attachments/assets/6aa226bf-af7a-48c9-b955-2f1aaa2d9f37)
+
