@@ -1,4 +1,4 @@
-# What is Github Desktop?
+# What is a Github Desktop?
 
 Github desktop is an application designed and maintained by Github for users to contribute in a very easy and friendly way.
 ## Advantages :
