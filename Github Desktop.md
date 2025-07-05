@@ -79,6 +79,21 @@ It will automatically open vs code with all datas of the cloned repository.
 
 ![5](https://github.com/user-attachments/assets/3460c578-11db-46f6-ae3e-936195a30679)
 
+### Step 14: Now it will show an option named publish branch. Click on it to publish the branch.
+
+![6](https://github.com/user-attachments/assets/526119dd-f95a-4e4a-b0f2-41bf80123994)
+
+### Step 15: After few seconds, it will show to create request. Click on pull request.
+
+![7](https://github.com/user-attachments/assets/67af440a-2c3b-4707-836d-db12bdd72561)
+
+It will automatically open Github
+
+### Step 16: Add details about your contribution(title and description). Then click on pull request option.
+
+![8](https://github.com/user-attachments/assets/daad58f1-8e93-4e2e-b687-dd574c22555c)
+
+
 
 
 
