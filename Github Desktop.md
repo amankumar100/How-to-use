@@ -53,10 +53,18 @@ Wait for sometimes until it gets cloned, the cloning time depends upon the size 
 
 ![6](https://github.com/user-attachments/assets/875a9143-516a-4cfe-887c-f1312d458784)
 
-### Step 9: Now I can contribute easily through vscode, so click on open in vscode option.
+### Step 9: First create new branch to contribute, go to current branch option in the top, then click on new branch.
+
+![1](https://github.com/user-attachments/assets/232e6254-f162-4802-98ef-0aec117f13b5)
+
+### Step 10: Suppose you want to contribute a code of fibonacci series, so you may create a branch name fibonacci-series
+
+![2](https://github.com/user-attachments/assets/4a967421-e73c-41e6-a496-aaa29244d858)
+
+### Step 11: Now I can contribute easily through vscode, so click on open in vscode option.
 
 ![7](https://github.com/user-attachments/assets/957d1125-33a5-434c-a631-d5937176711d)
 
 It will automatically open vs code.
 
-### Step 10: I will continue tomorrow........................................
+### Step 11:
