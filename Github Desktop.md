@@ -75,3 +75,10 @@ It will automatically open vs code with all datas of the cloned repository.
 
 ![4](https://github.com/user-attachments/assets/6aa226bf-af7a-48c9-b955-2f1aaa2d9f37)
 
+### Step 13: Now open Github desktop, you will see some changes. on the bottom left, there is a description bar. fill it(optional) like I am creating fibonacci series, so i filled it as "create Fibonacci.py" and in description i mentioned "shows Fibonacci series based on user input." Now click on commit changes.
+
+![5](https://github.com/user-attachments/assets/3460c578-11db-46f6-ae3e-936195a30679)
+
+
+
+
