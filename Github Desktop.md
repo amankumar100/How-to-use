@@ -18,9 +18,9 @@ Basic requirement:
     
 ![1](https://github.com/user-attachments/assets/4c6af539-90c6-4125-b760-6e72e5999870)
 
-### Step 2 : Install the application with your desired location
+### Step 2 : Install the application with your desired location.
 
-### Step 3 : Open GitHub Desktop, choose theme 
+### Step 3 : Open GitHub Desktop, sign in with Github account. Do some basic setup like choosing theme and all. 
 
 ### Step 4 : Go to GitHub, choose a repository you want to contribute. Suppose you want to contribute in this repository named Python Snippet by DahlitzFlorian.
 
@@ -47,13 +47,13 @@ It will automatically open Github desktop showing to clone the repository.
 
 ![5](https://github.com/user-attachments/assets/4ff6958c-bcba-45be-9fc0-197714f7b75b)
 
-Wait for sometimes until it gets cloned, the cloning time depends upon the size and data of repository. for small size or less data based repository, it takes very less time and vice versa.
+Wait for sometimes until it gets cloned, the cloning time depends upon the size and data of repository. For small size or less data based repository, it takes very less time and vice versa.
 
 ### Step 8: Choose how you want to use it. To contribute in original repository click on parent project and if personal experimentation choose For my own purpose. Here i want to contribute in original repository so I am choosing Parent Project option and click continue.
 
 ![6](https://github.com/user-attachments/assets/875a9143-516a-4cfe-887c-f1312d458784)
 
-### Step 9: First create new branch to contribute, go to current branch option in the top, then click on new branch.
+### Step 9: First create new branch to contribute, go to current branch option on the top, then click on new branch.
 
 ![1](https://github.com/user-attachments/assets/232e6254-f162-4802-98ef-0aec117f13b5)
 
@@ -67,7 +67,7 @@ Wait for sometimes until it gets cloned, the cloning time depends upon the size 
 
 It will automatically open vs code with all datas of the cloned repository.
 
-### Step 11: Since in this repository, all python codes are in a folder named standard lib, so I will create a new python file under this folder named fibonacci.py
+### Step 11: Since in this repository, all python codes are in a folder named standard-lib, so I will create a new python file under this folder named fibonacci.py
 
 ![3](https://github.com/user-attachments/assets/434bcd00-a80c-41f7-913b-bf879f0063b0)
 
@@ -75,7 +75,7 @@ It will automatically open vs code with all datas of the cloned repository.
 
 ![4](https://github.com/user-attachments/assets/6aa226bf-af7a-48c9-b955-2f1aaa2d9f37)
 
-### Step 13: Now open Github desktop, you will see some changes. on the bottom left, there is a description bar. fill it(optional) like I am creating fibonacci series, so i filled it as "create Fibonacci.py" and in description i mentioned "shows Fibonacci series based on user input." Now click on commit changes.
+### Step 13: Now open Github desktop, you will see some changes. on the bottom left, there is a description bar. Fill it(optional) like I am creating fibonacci series, so i filled it as "create Fibonacci.py" and in description i mentioned "shows Fibonacci series based on user input." Now click on commit.
 
 ![5](https://github.com/user-attachments/assets/3460c578-11db-46f6-ae3e-936195a30679)
 
@@ -89,11 +89,15 @@ It will automatically open vs code with all datas of the cloned repository.
 
 It will automatically open Github
 
-### Step 16: Add details about your contribution(title and description). Then click on pull request option.
+### Step 16: Add details about your contribution(title and description). Then click on pull request option. 
+
+Note : Before clicking on pull request, if you want the maintainers/owners not to edit the changes of yours then remove the blue tick by clicking on "Allow edits by maintainers"  option beside the "Create pull request" option, otherwise don't click. Since my code is simple, I left it as it is. If they want they can change/rectify. Its optional and depends upon your choice.
+
+### Then click on create pull request.
 
 ![8](https://github.com/user-attachments/assets/daad58f1-8e93-4e2e-b687-dd574c22555c)
 
-### Step 17: It will show if there is any conflict or not. some may have test cases. If all passed then the maintainer or owner will merge the contribution after sometimes, if fails then go to the issue part of the page/code and resolve, then go to github desktop, same process, update commit changes and click on push origin.
+### Step 17: It will show if there is any conflict or not. Some may have test cases. If all passed then the maintainer or owner will merge the contribution after sometimes if they view and are satisfied from your contribution.
 
 ![9](https://github.com/user-attachments/assets/5f308edc-9a66-4e8f-a58a-d70ee4ec8ace)
 
