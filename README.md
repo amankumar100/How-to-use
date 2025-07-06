@@ -5,3 +5,6 @@ Each file contains step by step guidance to use/install/setup a certain software
 
 ## Anyone who finds this repository useful can share with anyone.
 Here 'How to use' signifies the solution of how to use that's why no question mark, be kind and help others. 
+
+
+## ![Views](https://img.shields.io/badge/Views-0-blue?style=social&logo=github)
