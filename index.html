@@ -1,101 +1,85 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>How-to-use Stats</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>GitHub Repo Stats</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
-      background-color: #0d1117;
+      font-family: 'Segoe UI', sans-serif;
+      background: #0d1117;
       color: #c9d1d9;
       text-align: center;
-      padding: 50px;
+      padding: 2rem;
     }
     h1 {
       color: #58a6ff;
     }
     .counter {
-      display: flex;
-      justify-content: center;
-      gap: 20px;
-      margin-top: 30px;
+      display: inline-block;
+      margin: 1rem;
+      padding: 1rem 2rem;
+      background: #161b22;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px #00000050;
     }
-    .button {
-      background-color: #238636;
-      color: white;
+    .counter p {
+      font-size: 1.2rem;
+    }
+    button {
+      margin-top: 0.5rem;
+      padding: 0.5rem 1rem;
+      font-size: 1rem;
       border: none;
-      padding: 15px 30px;
-      font-size: 18px;
-      border-radius: 10px;
+      border-radius: 8px;
       cursor: pointer;
-      transition: background 0.3s ease;
+      background: #238636;
+      color: white;
+      transition: background 0.3s;
     }
-    .button:hover {
-      background-color: #2ea043;
-    }
-    .count {
-      font-size: 20px;
-      margin-top: 8px;
-    }
-    .box {
-      background-color: #161b22;
-      padding: 20px;
-      border-radius: 10px;
-      width: 200px;
+    button:hover {
+      background: #2ea043;
     }
   </style>
 </head>
 <body>
-
   <h1>📊 GitHub Repo Stats</h1>
 
   <div class="counter">
-    <div class="box">
-      👁️ Views
-      <div class="count" id="viewCount">Loading...</div>
-    </div>
+    <p>👁️ Views: <span id="views">...</span></p>
+  </div>
 
-    <div class="box">
-      👍 Like
-      <button class="button" onclick="increment('likes')">Like</button>
-      <div class="count" id="likeCount">0</div>
-    </div>
+  <div class="counter">
+    <p>👍 Likes: <span id="likes">...</span></p>
+    <button onclick="increment('likes')">Like</button>
+  </div>
 
-    <div class="box">
-      ✅ Helped Me
-      <button class="button" onclick="increment('helped')">Helped</button>
-      <div class="count" id="helpedCount">0</div>
-    </div>
+  <div class="counter">
+    <p>✅ Helped Me: <span id="helped">...</span></p>
+    <button onclick="increment('helped')">It Helped Me</button>
   </div>
 
   <script>
-    const namespace = 'amankumar100-how-to-use';
-    const viewKey = `${namespace}-views`;
-    const likeKey = `${namespace}-likes`;
-    const helpedKey = `${namespace}-helped`;
+    const NAMESPACE = 'amankumar100-how-to-use';
+    const COUNTERS = ['views', 'likes', 'helped'];
 
-    async function getCount(key, update = false) {
-      const url = update
-        ? `https://api.countapi.xyz/hit/${key}`
-        : `https://api.countapi.xyz/get/${key}`;
-      const res = await fetch(url);
+    async function getCount(type) {
+      const res = await fetch(`https://api.countapi.xyz/get/${NAMESPACE}/${type}`);
       const data = await res.json();
-      return data.value;
+      document.getElementById(type).textContent = data.value;
     }
 
     async function increment(type) {
-      const key = type === 'likes' ? likeKey : helpedKey;
-      const count = await getCount(key, true);
-      document.getElementById(type + 'Count').innerText = count;
+      const res = await fetch(`https://api.countapi.xyz/hit/${NAMESPACE}/${type}`);
+      const data = await res.json();
+      document.getElementById(type).textContent = data.value;
     }
 
-    async function loadCounts() {
-      document.getElementById('viewCount').innerText = await getCount(viewKey, true);
-      document.getElementById('likeCount').innerText = await getCount(likeKey);
-      document.getElementById('helpedCount').innerText = await getCount(helpedKey);
-    }
+    // Auto-increment views on page load
+    increment('views');
 
-    loadCounts();
+    // Load all counters
+    COUNTERS.forEach(getCount);
   </script>
 </body>
 </html>
