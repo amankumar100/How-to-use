@@ -6,6 +6,3 @@ Each file contains step by step guidance to use/install/setup a certain software
 ## Anyone who finds this repository useful can share with anyone.
 
 ![Views](https://komarev.com/ghpvc/?username=amankumar100&repo=How-to-use&label=👁️%20Views%20%20&style=flat-square&color=red)
-
-![Helped](https://img.shields.io/badge/🙏%20Helped-7-blue?style=flat-square)
-
