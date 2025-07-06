@@ -6,10 +6,4 @@ Each file contains step by step guidance to use/install/setup a certain software
 ## Anyone who finds this repository useful can share with anyone.
 Here 'How to use' signifies the solution of how to use that's why no question mark, be kind and help others. 
 
-
-## 📊 GitHub Repo Stats
-
-See [Live Repo Stats](https://amankumar100.github.io/How-to-use/) for:
-- 👁️ Views
-- 👍 Likes
-- ✅ Helped Me
+![Views](https://img.shields.io/badge/👁️_Views-1-red?style=for-the-badge&color=black)
