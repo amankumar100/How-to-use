@@ -4,6 +4,8 @@ This repository helps you to learn and understand how to use/install/setup a cer
 Each file contains step by step guidance to use/install/setup a certain software/app/website.
 
 ## Anyone who finds this repository useful can share with anyone.
-Here 'How to use' signifies the solution of how to use that's why no question mark, be kind and help others. 
 
 ![Views](https://komarev.com/ghpvc/?username=amankumar100&repo=How-to-use&label=👁️%20Views%20%20&style=flat-square&color=red)
+
+![Helped](https://img.shields.io/badge/🙏%20Helped-7-blue?style=flat-square)
+
