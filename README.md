@@ -7,4 +7,4 @@ Each file contains step by step guidance to use/install/setup a certain software
 
 ![Views](https://komarev.com/ghpvc/?username=amankumar100&repo=How-to-use&label=👁️%20Views%20%20&style=flat-square&color=red)
 
-I will be uploading more soon.
+
