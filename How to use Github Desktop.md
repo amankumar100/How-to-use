@@ -57,7 +57,7 @@ Wait for sometimes until it gets cloned, the cloning time depends upon the size 
 
 ![1](https://github.com/user-attachments/assets/232e6254-f162-4802-98ef-0aec117f13b5)
 
-### Step 10: Suppose you want to contribute a code of fibonacci series, so you may create a branch name fibonacci-series
+### Step 10: Suppose you want to contribute a code of fibonacci series, so you may create a branch named fibonacci-series
 
 ![2](https://github.com/user-attachments/assets/4a967421-e73c-41e6-a496-aaa29244d858)
 
@@ -101,6 +101,6 @@ Note : Before clicking on pull request, if you want the maintainers/owners not t
 
 ![9](https://github.com/user-attachments/assets/5f308edc-9a66-4e8f-a58a-d70ee4ec8ace)
 
-## Wait for them to merge. It may take time maybe even days or weeks when they see the pull request. If its approved and merged.
+## Wait for them to merge. It may take time maybe even days or weeks when they see the pull request. If its approved and merged, you contribution has been accepted.
 
 # Congratulation! You have sucessfully made a contribution.
