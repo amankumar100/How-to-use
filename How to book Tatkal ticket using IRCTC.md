@@ -27,8 +27,13 @@ Note : Register anytime before tatkal booking but not during tatkal as its one t
 
 ### Step 3: Go to login page. Enter details such as username, password above and captcha given below and click on sign in.
 
-Note : For tatkal booking, login 5 minute before the tatkal time like for A.C. booking login till 9:55 a.m. and sleeper booking till 10:55 a.m. You can login anytime but it may log out if login is too earlier or may take time to login if login too late or on time due to site traffic at that time.
+Note : For tatkal booking, login 4 to 5 minute before the tatkal time like for A.C. booking login within 9:54 a.m. to 9:58  a.m. and sleeper booking till 10:54 a.m. to 10:58 a.m. You can login anytime but it may log out if login is too earlier or may take time to login if login too late or on time due to site traffic at that time. Since here I am booking for sleeper so i have logged in nearly at 10:55 a.m.
 
 ![2](https://github.com/user-attachments/assets/f4cfd92c-9517-4a02-8bf0-b607442486cb)
+
+### Step 4: Put the details of your journey like from which station to which station you want to visit. Suppose I want to visit Tatanagar to Delhi. Then select the date on right side(it should be of next day only), then select tatkal on the below option.
+
+![3](https://github.com/user-attachments/assets/abee59dc-bb66-48fb-af12-4a2ad567dd45)
+
 
 # Rest part will be uploaded soon.............................
