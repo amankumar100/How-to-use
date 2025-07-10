@@ -35,5 +35,10 @@ Note : For tatkal booking, login 4 to 5 minute before the tatkal time like for A
 
 ![3](https://github.com/user-attachments/assets/abee59dc-bb66-48fb-af12-4a2ad567dd45)
 
+### Step 5: Then you will see the train options available there, suppose I want to book Anand Vihar Terminal Train given below scroll down and click on sleeper.
+
+![6](https://github.com/user-attachments/assets/982d720d-51d1-4b9d-9020-cbdfd925d32e)
+
+
 
 # Rest part will be uploaded soon.............................
