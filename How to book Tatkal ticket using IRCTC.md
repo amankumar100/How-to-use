@@ -20,9 +20,15 @@ Tatkal ticket is a train ticket booked for instant journey. Suppose you want to 
     https://www.irctc.co.in/nget/train-search
 
 ### Step 2: Go above and register. 
+
 Note : Register anytime before tatkal booking but not during tatkal as its one time process. Once registered cannot be registered with same account again.
 
 ![1](https://github.com/user-attachments/assets/520199ca-617d-48f0-bf1e-807c8f55858a)
 
-### Step 3: Go to login
+### Step 3: Go to login page. Enter details such as username, password above and captcha given below and click on sign in.
+
+Note : For tatkal booking, login 5 minute before the tatkal time like for A.C. booking login till 9:55 a.m. and sleeper booking till 10:55 a.m. You can login anytime but it may log out if login is too earlier or may take time to login if login too late or on time due to site traffic at that time.
+
+![2](https://github.com/user-attachments/assets/f4cfd92c-9517-4a02-8bf0-b607442486cb)
+
 # Rest part will be uploaded soon.............................
