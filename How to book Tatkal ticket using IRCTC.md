@@ -57,5 +57,8 @@ Note: If you are comfortable with any birth, no need to fill the preference just
 
 <img width="1916" height="908" alt="8" src="https://github.com/user-attachments/assets/634b5226-f831-4ff7-9193-f1d90f4ab4e4" />
 
+### Step 10: Click on "Multiple Payment Service" on left side and select 1st PhonePe UPI option.
+
+<img width="1912" height="914" alt="10" src="https://github.com/user-attachments/assets/1a0d04cf-aa98-4b14-afa5-06211841c774" />
 
 # Rest part will be uploaded soon.............................
