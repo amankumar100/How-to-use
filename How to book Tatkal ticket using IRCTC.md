@@ -53,6 +53,9 @@ Note: If you are comfortable with any birth, no need to fill the preference just
 
 <img width="1916" height="908" alt="8" src="https://github.com/user-attachments/assets/155a23b9-2c48-4bc9-8726-fc3fc089fae5" />
 
+### Step 9: Enter the captcha and continue.
+
+<img width="1916" height="908" alt="8" src="https://github.com/user-attachments/assets/634b5226-f831-4ff7-9193-f1d90f4ab4e4" />
 
 
 # Rest part will be uploaded soon.............................
