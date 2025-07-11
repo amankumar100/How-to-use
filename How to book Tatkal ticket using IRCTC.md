@@ -49,5 +49,10 @@ Note: If you are comfortable with any birth, no need to fill the preference just
 
 <img width="1920" height="910" alt="7" src="https://github.com/user-attachments/assets/9b1dbd42-0a15-4b36-aaca-c45c7833948b" />
 
+### Step 8: Scroll down and select the payment mode, you can chose any cards/UPI. Then click on continue.
+
+<img width="1916" height="908" alt="8" src="https://github.com/user-attachments/assets/155a23b9-2c48-4bc9-8726-fc3fc089fae5" />
+
+
 
 # Rest part will be uploaded soon.............................
