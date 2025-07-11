@@ -43,6 +43,11 @@ Note : For tatkal booking, login 4 to 5 minute before the tatkal time like for A
 
 ![5](https://github.com/user-attachments/assets/2f785847-18e8-4121-b4ea-54f5b9eddc60)
 
+### Step 7: Now add details of the Passenger that is his/her name, age, gender and birth(optional).
+
+Note: If you are comfortable with any birth, no need to fill the preference just leave as it is, it will give higher chance of confirmation.
+
+<img width="1920" height="910" alt="7" src="https://github.com/user-attachments/assets/9b1dbd42-0a15-4b36-aaca-c45c7833948b" />
 
 
 # Rest part will be uploaded soon.............................
