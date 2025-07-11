@@ -65,6 +65,6 @@ Note: If you are comfortable with any birth, no need to fill the preference just
 
 <img width="1912" height="910" alt="11" src="https://github.com/user-attachments/assets/6aff39ff-0a28-477d-9fa0-88b905309350" />
 
-## After sometimes it will automatically show you the ticket and the confirmation status if its confirmed then congratulations! your tatkal ticket has been booked, if its shows waiting, unfortunaltely seats have been filled, no need to worry, amount will be refunded within 72 hours, if you want try for next day, you can surely try or else if the waiting is very low like ranging between 1 to 5 then there is a little bit chance that it gets confirmed after sometime. But not guaranteed until chart has been prepared.
+## After sometimes it will automatically show you the ticket and the confirmation status if its confirmed then congratulations! your tatkal ticket has been booked, if its shows waiting, unfortunaltely seats have been filled, no need to worry, amount will be refunded within 72 hours, if you to want try for next day, you can surely try or else if the waiting is very low like ranging between 1 to 5 then there is a little bit chance that it gets confirmed after sometime. But not guaranteed until chart has been prepared.
 
 ### Step 12: Open the IRCTC after tatkal time that is after 12:00 p.m., go to last transaction or booking details, click on it, you will get your ticket go to above option to print/download and download the ticket. Also if the ticket is confirmed, notification will come in your mail or phone number just after booking.
