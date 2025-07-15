@@ -4,5 +4,8 @@ Canva is a software for graphic designing, content creation, image editing and f
 
 ### Step 1: Go to Canva website and signup:
     https://www.canva.com/
+
+![Uploading 1.png…]()
+
     
 ### Futher part Will be uploaded soon.............................
