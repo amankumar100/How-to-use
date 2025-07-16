@@ -12,6 +12,7 @@ Postman is a sofware/tool which is used to test api. It tests api by sending req
 
 # How to use
 
-# Further part will be uploaded soon.
+### Step 1: Go to this link and click on "Windows 64-bit" and download:
+    https://www.postman.com/downloads/
 
-### Step 1:
+# Further part will be uploaded soon.
