@@ -16,6 +16,8 @@ Tatkal ticket is a train ticket booked for instant journey. Suppose you want to 
 6. If ticket status is waiting means seats have already been booked or filled and can no longer be booked but amount will be refunded within 72 hours.
 7. No amount is reunded if cancel the tatkal ticket.
 
+# How to use
+
 ### Step 1: Go to the IRCTC official website
     https://www.irctc.co.in/nget/train-search
 
