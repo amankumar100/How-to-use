@@ -28,8 +28,9 @@ Postman is a sofware/tool which is used to test api. It tests api by sending req
 ### Step 4: Then suppose I want to test an api of GitHub given below as a link, copy the link
             https://api.github.com/users/octocat
 
-            
+### Step 5: Paste the link in Postman, select GET and click on Send.
 
+<img width="1920" height="881" alt="5" src="https://github.com/user-attachments/assets/b0fbadb0-92a3-4366-964b-1cd1efd93a82" />
 
 
 # Further part will be uploaded soon.
