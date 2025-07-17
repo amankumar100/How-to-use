@@ -40,4 +40,13 @@ Postman is a sofware/tool which is used to test api. It tests api by sending req
 
 <img width="1920" height="881" alt="7" src="https://github.com/user-attachments/assets/cf33717e-2492-47c3-af88-1a1c158c8626" />
 
-# Further part will be uploaded soon.
+If its fake then it will shows some message or error or no actual details. 
+
+### suppose this one: 
+    https://dog.ceo/api/breeds/image/random
+
+it will show this message if you test, its fake:
+
+     <img width="1920" height="864" alt="8" src="https://github.com/user-attachments/assets/e549873a-d2f8-4ec8-aca0-7c5656177738" />
+
+# Congratulations! You learned to use Postman, now you can test any api, post issues in api and perform operations in apis using Postman. 
