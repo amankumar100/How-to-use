@@ -1,6 +1,6 @@
 # What is Postman?
 
-Postman is a sofware/tool which is used to test api. It tests api by sending requests and receiving responses.
+Postman is a software/tool which is used to test api. It tests api by sending requests and receiving responses.
 
 # Benefits of using Postman
 
