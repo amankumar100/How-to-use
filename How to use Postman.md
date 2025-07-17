@@ -47,6 +47,6 @@ If its fake then it will shows some message or error or no actual details.
 
 it will show this message if you test, its fake:
 
-     <img width="1920" height="864" alt="8" src="https://github.com/user-attachments/assets/e549873a-d2f8-4ec8-aca0-7c5656177738" />
+<img width="1920" height="864" alt="8" src="https://github.com/user-attachments/assets/9928cb9b-527b-4897-b0c5-97165d137bf7" />
 
 # Congratulations! You learned to use Postman, now you can test any api, post issues in api and perform operations in apis using Postman. 
