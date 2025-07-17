@@ -32,5 +32,12 @@ Postman is a sofware/tool which is used to test api. It tests api by sending req
 
 <img width="1920" height="881" alt="5" src="https://github.com/user-attachments/assets/b0fbadb0-92a3-4366-964b-1cd1efd93a82" />
 
+### Step 6: Click on body below
+
+<img width="1452" height="207" alt="6" src="https://github.com/user-attachments/assets/5e4b333d-1085-40e1-8fac-1912a90f0a53" />
+
+### Step 7: Shows the output, if it shows all details without error, then its actual.
+
+<img width="1920" height="881" alt="7" src="https://github.com/user-attachments/assets/cf33717e-2492-47c3-af88-1a1c158c8626" />
 
 # Further part will be uploaded soon.
