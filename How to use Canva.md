@@ -9,6 +9,7 @@ Canva is a software for graphic designing, content creation, image editing and f
 
 ### Step 2: Go to create option. Choose the template, suppose I want to make poster, so I chose poster
 
+### Step 3: Go to design section in left and chose the design you want to implement
 
 
 ### Futher part Will be uploaded soon.............................
