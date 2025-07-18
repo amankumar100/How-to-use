@@ -7,6 +7,8 @@ Canva is a software for graphic designing, content creation, image editing and f
 
 <img width="1920" height="843" alt="1" src="https://github.com/user-attachments/assets/99253a4f-6ed3-4de8-bc17-211b54217374" />
 
-### Step 2: Go to create option.
+### Step 2: Go to create option. Choose the template, suppose I want to make poster, so I chose poster
+
+
 
 ### Futher part Will be uploaded soon.............................
