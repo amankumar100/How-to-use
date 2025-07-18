@@ -19,3 +19,4 @@ Note: You can customise color, font and design of text as per your need.
 ### Step 6: Write the text for poster
 
 ### Futher part Will be uploaded soon.............................
+### Screenshots of above steps will be uploaded soon.
