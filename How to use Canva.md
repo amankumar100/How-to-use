@@ -13,5 +13,9 @@ Canva is a software for graphic designing, content creation, image editing and f
 
 ### Step 4: Go to element section, put any graphic you want to put in the poster
 
-### Step 
+### Step 5: Go to text section, chose the design of text you want to use
+Note: You can customise color, font and design of text as per your need.
+
+### Step 6: Write the text for poster
+
 ### Futher part Will be uploaded soon.............................
