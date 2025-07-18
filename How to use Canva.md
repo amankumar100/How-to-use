@@ -11,5 +11,7 @@ Canva is a software for graphic designing, content creation, image editing and f
 
 ### Step 3: Go to design section in left and chose the design you want to implement
 
+### Step 4: Go to element section, put any graphic you want to put in the poster
 
+### Step 
 ### Futher part Will be uploaded soon.............................
