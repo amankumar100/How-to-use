@@ -19,8 +19,10 @@ Canva is a software for graphic designing, content creation, image editing and f
 
 <img width="1920" height="912" alt="5" src="https://github.com/user-attachments/assets/932d5120-6017-4f40-b2d1-130d7b30dee2" />
 
-### Step 5: Go to text section, chose the design of text you want to use
+### Step 5: Go to text section, chose the design of text you want to use.
 Note: You can customise color, font and design of text as per your need.
+
+<img width="1912" height="908" alt="6" src="https://github.com/user-attachments/assets/04326089-4db4-4416-8677-d960313f338d" />
 
 ### Step 6: Write the text for poster
 
