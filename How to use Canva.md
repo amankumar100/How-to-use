@@ -26,5 +26,15 @@ Note: You can customise color, font and design of text as per your need.
 
 ### Step 6: Write the text for poster
 
-### Futher part Will be uploaded soon.............................
-### Screenshots of above steps will be uploaded soon.
+<img width="1920" height="908" alt="7" src="https://github.com/user-attachments/assets/0a801aa0-407e-458c-a2d1-79f98bc0f9a6" />
+
+### Step 8: You can add some extra elements suppose I added Dog and Cat images from elements section.
+
+<img width="1920" height="906" alt="8" src="https://github.com/user-attachments/assets/2d2117ac-b842-43de-b8ca-f85f41f96f22" />
+
+### Step 9: You can also upload your own image. Go to upload section click on upload and chose your file to upload.
+
+<img width="1910" height="910" alt="9" src="https://github.com/user-attachments/assets/41ef8b80-8223-491f-a556-a80edcfe4a45" />
+
+
+
