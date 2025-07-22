@@ -11,7 +11,7 @@ VS Code is an open source code editor for performing all programing based operat
 5. All types of development possible like Software Development, Web Development, Application Development, etc.
 6. Makes open source contribution easier as cloning repositories and performing operations in VS Code is easy.
 
-# What you will learn in this repository:
+# In this repository:
 
 1. VS Code Setup
 2. Necessary extension installation
