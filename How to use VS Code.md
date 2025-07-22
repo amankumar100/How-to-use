@@ -14,4 +14,8 @@ VS Code is an open source code editor for performing all programing based operat
 # What you will learn in this repository:
 
 
+1. VS Code Setup
+2. Necessary extension installation
+3. Programming language setup of Java, C/C++, Python
+
 # Further part will be uploaded soon.............................
