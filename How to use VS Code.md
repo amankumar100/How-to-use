@@ -17,6 +17,7 @@ VS Code is an open source code editor for performing all programing based operat
 2. Necessary extension installation
 3. Programming language setup of Java, C/C++, Python
 
-### Step 1: Go to this website and download VS Code
+### Step 1: Go to this website and download VS Code:
+    https://code.visualstudio.com/
 
 # Further part will be uploaded soon.............................
