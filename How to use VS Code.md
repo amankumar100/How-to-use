@@ -19,5 +19,9 @@ VS Code is an open source code editor for performing all programing based operat
 
 ### Step 1: Go to this website and download VS Code:
     https://code.visualstudio.com/
+    
+Note : For windows, you can directly download from Microsoft Store.
+
+### Step 2 
 
 # Further part will be uploaded soon.............................
