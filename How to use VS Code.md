@@ -21,5 +21,9 @@ VS Code is an open source code editor for performing all programing based operat
     https://code.visualstudio.com/
     
 <img width="1920" height="910" alt="1" src="https://github.com/user-attachments/assets/079c9750-4878-4799-ba9b-0be24594270a" />
-    
+
+### Step 2: Install the application:
+
+
+
 # Further part will be uploaded soon.............................
