@@ -26,6 +26,11 @@ VS Code is an open source code editor for performing all programing based operat
 
 <img width="685" height="568" alt="2" src="https://github.com/user-attachments/assets/37614388-f6ea-40a0-accb-a86a8305a716" />
 
-### Step 3: Open VS Code:
+### Step 3: Open VS Code, open extension:
+
+Note : Sometimes it asks to Trust the author in configuration, so click on fully trust/trust
+
+<img width="1897" height="998" alt="A" src="https://github.com/user-attachments/assets/06649e58-918a-46e3-bf32-528062f7e258" />
+
 
 # Further part will be uploaded soon.............................
