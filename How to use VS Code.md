@@ -38,6 +38,6 @@ Note : Sometimes it asks to Trust the author in configuration, so click on fully
 
 ### Step 5: For python: Go to extension, search python and debugger for python and install:
 
-
+<img width="1920" height="950" alt="5" src="https://github.com/user-attachments/assets/40ba1acc-4587-4813-9def-0c420888a095" />
 
 # Further part will be uploaded soon.............................
