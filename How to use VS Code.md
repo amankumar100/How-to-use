@@ -32,5 +32,8 @@ Note : Sometimes it asks to Trust the author in configuration, so click on fully
 
 <img width="1897" height="998" alt="A" src="https://github.com/user-attachments/assets/06649e58-918a-46e3-bf32-528062f7e258" />
 
+### Step 4: In extesion search code runner and install:
+
+
 
 # Further part will be uploaded soon.............................
