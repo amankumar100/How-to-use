@@ -36,4 +36,6 @@ Note : Sometimes it asks to Trust the author in configuration, so click on fully
 
 <img width="1920" height="899" alt="4" src="https://github.com/user-attachments/assets/05ebc7c5-b288-429f-bd5d-d80fdacff8a2" />
 
+### Step 5: For python: Go to extension, search python and debugger for python and install:
+
 # Further part will be uploaded soon.............................
