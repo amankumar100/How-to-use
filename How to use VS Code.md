@@ -34,6 +34,6 @@ Note : Sometimes it asks to Trust the author in configuration, so click on fully
 
 ### Step 4: In extesion search code runner and install:
 
-
+<img width="1920" height="899" alt="4" src="https://github.com/user-attachments/assets/05ebc7c5-b288-429f-bd5d-d80fdacff8a2" />
 
 # Further part will be uploaded soon.............................
