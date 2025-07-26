@@ -40,4 +40,5 @@ Note : Sometimes it asks to Trust the author in configuration, so click on fully
 
 <img width="1920" height="950" alt="5" src="https://github.com/user-attachments/assets/0af2e58b-9cd5-4d89-8acc-b26d0a1dc7db" />
 
+Note : you can also add "Python Extensions" extension, It has more additional features and makes it more efficient to use.
 # Further part will be uploaded soon.............................
