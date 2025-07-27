@@ -42,7 +42,6 @@ Note : Sometimes it asks to Trust the author in configuration, so click on fully
 
 <img width="1920" height="881" alt="7" src="https://github.com/user-attachments/assets/afaeb28d-7156-42de-b83b-07944e53510a" />
 
-
 ### Step 6: For java: install java extension and debugger for java:
 
 <img width="1920" height="937" alt="8" src="https://github.com/user-attachments/assets/00d98fff-e593-4ac9-bf47-6612514f10d2" />
