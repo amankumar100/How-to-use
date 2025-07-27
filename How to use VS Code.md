@@ -44,6 +44,8 @@ Note : Sometimes it asks to Trust the author in configuration, so click on fully
 
 ### Step 6: For java: install java extension and debugger for java:
 
+Note: Before running java code install jdk and add it in system environment variable.
+
 <img width="1920" height="937" alt="8" src="https://github.com/user-attachments/assets/00d98fff-e593-4ac9-bf47-6612514f10d2" />
 
 ### Step 7: For C/C++, install C/C++ debugger extension: 
