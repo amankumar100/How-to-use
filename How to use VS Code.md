@@ -46,6 +46,7 @@ Note : Sometimes it asks to Trust the author in configuration, so click on fully
 
 <img width="1920" height="937" alt="8" src="https://github.com/user-attachments/assets/00d98fff-e593-4ac9-bf47-6612514f10d2" />
 
+### Step 7: For C/C++, install C/C++ debugger extension: 
 
 Note : you can also add "Python Extensions" extension, It has more additional features and makes it more efficient to use.
 # Further part will be uploaded soon.............................
