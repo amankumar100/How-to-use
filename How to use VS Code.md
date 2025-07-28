@@ -58,3 +58,5 @@ Note : you can also add "Python Extensions" extension, It has more additional fe
 
 # Congratulations! Now your VSCode is ready to program in this language.
 
+# Example: Suppose you want to run a code in python.
+### Further part will be continued.....................
