@@ -50,7 +50,7 @@ Note: Before running java code install jdk and add it in system environment vari
 
 <img width="1920" height="937" alt="8" src="https://github.com/user-attachments/assets/00d98fff-e593-4ac9-bf47-6612514f10d2" />
 
-### Step 7: For C/C++, install C/C++ debugger extension: 
+### Step 7: For C/C++, install C/C++ extension: 
 
 <img width="1920" height="899" alt="6" src="https://github.com/user-attachments/assets/d2c6d868-58b4-40a9-bd7f-d8a443686dfe" />
 
