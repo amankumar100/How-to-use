@@ -44,7 +44,7 @@ Note : Sometimes it asks to Trust the author in configuration, so click on fully
 
 ### Step 6: For java: install java extension and debugger for java:
 
-Note: Before running java code install jdk and add it in system environment variable. You can download latest versionn from this website link given below.
+Note: Before running java code install jdk and add it in system environment variable. You can download latest version from this website link given below:
 
     https://www.oracle.com/in/java/technologies/downloads/
 
