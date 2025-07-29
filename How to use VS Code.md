@@ -57,4 +57,3 @@ Note: Before running java code install jdk and add it in system environment vari
 Note : you can also add "Python Extensions" extension, It has more additional features and makes it more efficient to use.
 
 # Congratulations! Now your VSCode is ready to program in this language.
-
