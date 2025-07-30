@@ -11,4 +11,6 @@ Docker is an software for building, testing and deployment of appliactions easil
 
 # HOW TO USE
 
+### Step 1: Go to this link and download Docker Desktop:
+
 # Further part will be uploaded soon.............................
