@@ -8,5 +8,6 @@ Docker is an software for building, testing and deployment of appliactions easil
 2. Fast and lightweight
 3. Less complexity
 4. Portable and scalable
-   
+
+
 # Further part will be uploaded soon.............................
