@@ -1,6 +1,6 @@
 # What is Oracle VirtualBox?
 
-VirtualBox is a software or a virtual software
+VirtualBox is a virtual software
 
 # Benefits of using Oracle VirtualBox
 
